@@ -58,3 +58,5 @@ Example `.env` file:
 To start the API, run the following command:
 
 The API will be accessible at `http://localhost:1100`.
+
+THE LINK TO THE VIDEO IS - https://youtu.be/vPcIH2Pfs6Q
